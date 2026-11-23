@@ -1,5 +1,5 @@
 {
-  "name": "ch01",
+  "name": "mall",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,6 +13,7 @@
     "@tailwindcss/vite": "^4.3.5",
     "react": "^19.3.1",
     "react-dom": "^19.3.1",
+    "react-router": "^8.5.2",
     "tailwindcss": "^4.3.5"
   },
   "devDependencies": {
